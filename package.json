@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "image-downloader": "^3.5.0",
+    "node-id3": "^0.1.16",
+    "youtube-dl": "^3.0.2",
+    "ytdl-core": "^2.0.0"
+  }
+}
